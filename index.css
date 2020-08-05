@@ -1,0 +1,90 @@
+#html{
+    min-height:100%;
+}
+#body{
+
+    background: linear-gradient(90deg,blue,purple 60%);
+}
+
+#p1{
+    color:white;
+
+    position:fixed;
+    top:150px;
+    left:600px;
+    font-size: 80px;
+    color:greenyellow;
+}
+
+#b1{
+   
+    height:80px;
+    width: 100px;
+    position:fixed;
+    top:360px;
+    left:540px;
+    background-color:green;
+    color:white;
+    border-radius: 10%;
+    font-size:30px;
+    border-color: green;
+    
+}
+#b2{ height:80px;
+    width: 100px;
+    position:fixed;
+    top:360px;
+    left:740px;
+    size:10px ;
+    background-color:green;
+    color:white;
+    font-size:30px;
+    border-radius: 10%;
+    border-color: green;
+    
+}
+@media(max-width:574px){
+
+#body{
+
+    background: linear-gradient(90deg,blue,purple 60%);
+}
+
+#p1{
+    color:white;
+
+    position:fixed;
+    top:150px;
+    left:200px;
+    font-size: 80px;
+    color:greenyellow;
+}
+
+#b1{
+   
+    height:80px;
+    width: 100px;
+    position:fixed;
+    top:360px;
+    left:180px;
+    background-color:green;
+    color:white;
+    border-radius: 10%;
+    font-size:30px;
+    border-color: green;
+    
+}
+#b2{ height:80px;
+    width: 100px;
+    position:fixed;
+    top:360px;
+    left:300px;
+    size:10px ;
+    background-color:green;
+    color:white;
+    font-size:30px;
+    border-radius: 10%;
+    border-color: green;
+    
+    
+}}
