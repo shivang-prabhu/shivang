@@ -43,7 +43,11 @@
     border-color: green;
     
 }
-@media(max-width:574px){
+
+
+
+
+@media(max-width:360px){
 
 #body{
 
@@ -54,8 +58,8 @@
     color:white;
 
     position:fixed;
-    top:150px;
-    left:200px;
+    top:200px;
+    left:80px;
     font-size: 80px;
     color:greenyellow;
 }
@@ -65,8 +69,8 @@
     height:80px;
     width: 100px;
     position:fixed;
-    top:360px;
-    left:180px;
+    top:450px;
+    left:60px;
     background-color:green;
     color:white;
     border-radius: 10%;
@@ -77,8 +81,8 @@
 #b2{ height:80px;
     width: 100px;
     position:fixed;
-    top:360px;
-    left:300px;
+    top:450px;
+    left:200px;
     size:10px ;
     background-color:green;
     color:white;
